@@ -1,5 +1,5 @@
-# clearsky-seed	
-seed for the J2EE training project: clearsky 	
+# HowdySky
+created from clearsky 	
 
 ## directory structure:	
 **`rest`** [*module-rest*]: contains SpringMVC based REST API	
